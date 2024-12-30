@@ -1,15 +1,15 @@
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
-🎮 Features
-Play the classic Rock Paper Scissors game against the computer.
-Randomized computer moves for fair gameplay.
-Displays the result of each round (win, lose, or draw).
-Responsive and user-friendly interface.
+<b>🎮 Features</b> <br>
+Play the classic Rock Paper Scissors game against the computer.<br>
+Randomized computer moves for fair gameplay.<br>
+Displays the result of each round (win, lose, or draw).<br>
+Responsive and user-friendly interface.<br>
 
-🛠️ Technologies Used
-HTML: For creating the structure of the game.
-CSS: For styling and enhancing the visual appeal.
-JavaScript: For adding logic and interactivity to the game.
+<b>🛠️ Technologies</b><br>
+<b>HTML:</b> For creating the structure of the game.<br>
+<b>CSS:</b> For styling and enhancing the visual appeal.<br>
+<b>JavaScript:</b> For adding logic and interactivity to the game.<br>
 
-Want to play? Go to the below link.
+Want to play? Go to the below link.<br>
 https://rock-paper-scissors-game-pi-nine.vercel.app/
